@@ -1,3 +1,7 @@
-.flotte {
+.flottedroite {
 float:right;
+}
+
+.flottegauche {
+float:left;
 }
